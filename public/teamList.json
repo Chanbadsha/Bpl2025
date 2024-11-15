@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "team_name": "Dhaka Capitals"
+  },
+  {
+    "id": 2,
+    "team_name": "Chittagong Kings"
+  },
+  {
+    "id": 3,
+    "team_name": "Durbar Rajshahi"
+  },
+  {
+    "id": 4,
+    "team_name": "Fortune Barishal"
+  },
+  {
+    "id": 5,
+    "team_name": "Sylhet Strikers"
+  },
+  {
+    "id": 6,
+    "team_name": "Khulna Tigers"
+  },
+  {
+    "id": 7,
+    "team_name": "Rangpur Riders"
+  }
+]
